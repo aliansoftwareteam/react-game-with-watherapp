@@ -23,4 +23,4 @@ After cloning the project to your computer, you must open it in Visual Studio Co
 [https://hangman-with-react-ts.vercel.app](https://hangman-with-react-ts.vercel.app)
 
 ## Contact With✨
-Dilara Uluturhan - [LinkedIn](https://www.linkedin.com/in/dilarauluturhan/) - dilarauluturhan@outlook.com
+Alian Software - [Website](https://aliansoftware.com) - [Linkedin](https://in.linkedin.com/company/aliansoftware) - sales@aliansoftware.net
