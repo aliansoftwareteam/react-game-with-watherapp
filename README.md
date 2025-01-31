@@ -12,7 +12,7 @@ git clone https://github.com/aliansoftwareteam/react-game-with-watherapp.git
 After cloning the project to your computer, you must open it in Visual Studio Code. You can open the project in `localhost:3000` by saying `npm run start`.
 
 ## Live✨
-[https://hangman-with-react-ts.vercel.app](https://hangman-with-react-ts.vercel.app)
+[https://react-game-with-watherapp.vercel.app/](https://react-game-with-watherapp.vercel.app/)
 
 ## Contact With✨
 Alian Software - [Website](https://aliansoftware.com) - [Linkedin](https://in.linkedin.com/company/aliansoftware) - sales@aliansoftware.net
